@@ -18,6 +18,15 @@
     </item>
     
     <item>
+      <title>¿Qué has aprendido?</title>
+      <link>https://neostun.github.io/nodejs_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://neostun.github.io/nodejs_launchx_blog/posts/post_1/</guid>
+      <description>Pendiente rellenar con lo aprendido en la semana</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://neostun.github.io/nodejs_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
