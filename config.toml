@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+baseURL = "https://neostun.github.io/nodejs_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Ricardo Martínez"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
