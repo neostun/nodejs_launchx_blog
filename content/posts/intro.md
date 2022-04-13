@@ -1,9 +1,11 @@
 ---
-title: "La cultura de un Desarrollador de software"
+title: "La cultura de un Desarrolador de software"
 date: 2022-04-13T02:21:21-05:00
-description: 'Un desarrollador web es responsable de construir y mantener el sitio web a través de código , asegurándose que la navegación sea fácil para el usuario.'
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS en Launch X.'
 ---
 
-Utilizar una tecnología moderna y atractiva 
-Formación continua
-Crear un sentido de propósito
+Para mi la cultura de un profesional del software se basa en lo siguiente
+- Respeto
+- Confianza
+- Honestidad
+- Dedicación
